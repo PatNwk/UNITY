@@ -1,0 +1,49 @@
+[Tt]emp/
+[Tt]emp/*
+
+# Ignore les dossiers de la bibliothèque et de la configuration
+[Ll]ibrary/
+[Ll]ibrary/*
+
+# Ignore les fichiers de la configuration
+ProjectSettings/
+
+# Ignore les dossiers d'exportation (Build)
+Build/
+Builds/
+
+# Ignore les fichiers log
+*.log
+
+# Ignore les fichiers de sauvegarde
+*.bak
+*.backup
+
+# Ignore les fichiers spécifiques aux éditeurs
+.idea/
+.vscode/
+
+# Ignore les fichiers de compilation
+*.obj
+*.exe
+*.dll
+*.app
+*.so
+*.dylib
+
+# Ignore les fichiers de cache pour les packages Unity
+[Pp]ackageCache/
+
+# Ignore les métadonnées des packages
+[Pp]ackages/
+
+# Ignore les dossiers et fichiers de l'Asset Store
+AssetStoreTools/
+
+# Ignore les fichiers de sauvegarde du projet
+*.swp
+*.suo
+
+# Ignore les fichiers macOS spécifiques
+.DS_Store
+

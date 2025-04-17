@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{04FAD769-9B55-753A-B45B-8E0A25EE625F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Script/Movement.cs" Line="24" Column="74" />
+      <File FileName="Assets/Script/PlayerController.cs" Line="26" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0b4ac650-19f3-41c4-b455-00a988418522" />
+</Properties>
